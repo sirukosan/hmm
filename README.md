@@ -1,2 +1,2 @@
 # hmm
-Hidden Markov model
+Hidden Markov model implementation
